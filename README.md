@@ -1,3 +1,3 @@
 # Deep
 
-淡定淡定
+Deep learning 的相关材料和笔记。
